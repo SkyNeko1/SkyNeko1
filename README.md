@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">SkyNeko1</h1>
 
-<!--
-**SkyNeko1/SkyNeko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Вайбкодер • AI-assisted developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Привет! Я **SkyNeko1** — вайбкодер.
+
+Пишу код вместе с нейросетями: **GLM 5.1**, **Claude Opus**, **Claude Sonnet** и **GPT-5.5**.
+
+С их помощью создаю действительно классные проекты и превращаю идеи в рабочий код.
